@@ -1,0 +1,74 @@
+{
+    "Foods": [
+        {
+            "id": "1",
+            "food_name": "Burger",
+            "price": "120",
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YnVyZ2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "order_made": 3
+        },
+        {
+            "id": "2",
+            "food_name": "Chicken pizza",
+            "price": "350",
+            "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "order_made": 4
+        },
+        {
+            "id": "3",
+            "food_name": "Fried chicken",
+            "price": "250",
+            "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JpbGxlZCUyMGNoaWNrZW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "order_made": 2
+        },
+        {
+            "id": "4",
+            "food_name": "Brown fries",
+            "price": "100",
+            "image": "https://images.unsplash.com/photo-1630431341636-999a7e047f3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZyaWVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "order_made": 5
+        },
+        {
+            "id": "5",
+            "food_name": "Pepperoni pizza",
+            "price": "380",
+            "image": "https://images.unsplash.com/photo-1576458088443-04a19bb13da6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "order_made": 3
+        },
+        {
+            "id": "6",
+            "food_name": "Hot dog",
+            "price": "200",
+            "image": "https://images.unsplash.com/photo-1638368593249-7cadb261e8b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdCUyMGRvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "order_made": 1
+        },
+        {
+            "id": "7",
+            "food_name": "Brocoli & mushroom",
+            "price": "350",
+            "image": "https://skinnyms.com/wp-content/uploads/2018/01/Broccoli-and-Mushroom-Stir-Fry-Vegan-Stir-Fry-Recipes.jpg",
+            "order_made": 4
+        },
+        {
+            "id": "8",
+            "food_name": "Grilled mediterranian vegetables",
+            "price": "360",
+            "image": "https://www.unicornsinthekitchen.com/wp-content/uploads/2020/09/Mediterranean-oven-roasted-vegetables.jpg",
+            "order_made": 6
+        },
+        {
+            "id": "9",
+            "food_name": "Chapati",
+            "price": "100",
+            "image": "https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/kenyan-chapatis-21e270.jpg",
+            "order_made": 8
+        },
+        {
+            "id": "10",
+            "food_name": "Grilled Tilapia w/ Fried Plantains",
+            "price": "600",
+            "image": "https://foodienotachef.com/wp-content/uploads/2021/02/ovengrilledtilapifried-1.png",
+            "order_made": 2  
+        }
+    ]
+}
